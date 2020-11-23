@@ -1,1 +1,2 @@
-# CardRecord
+＃CardRecord
+＃记牌器
